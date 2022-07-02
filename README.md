@@ -9,6 +9,4 @@ We are is a startup that aims to develop a technology ecosystem in Indonesia. We
      
 | Bot Name    | Status      |
 | ----------- | ----------- |
-| [Github Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/Lion-Of-Informatics/BOT-Auto-Github-Commit-Faker)       |
-        |
-
+| [Github Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/Lion-Of-Informatics/BOT-Auto-Github-Commit-Faker)
